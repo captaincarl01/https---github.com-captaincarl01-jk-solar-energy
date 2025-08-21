@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <pattern id="cells" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect width="60" height="60" fill="#0F172A"/>
+      <rect x="2" y="2" width="56" height="56" rx="6" ry="6" fill="#111827" stroke="#1E293B" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#cells)"/>
+</svg>
